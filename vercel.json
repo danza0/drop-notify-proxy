@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/notify",
+      "methods": ["POST", "OPTIONS"],
+      "dest": "/api/notify.js"
+    }
+  ]
+}
